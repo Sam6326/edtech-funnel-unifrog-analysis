@@ -31,8 +31,8 @@ Understand student behaviour on a simulated careers/university application platf
 **Live Dashboard** (may require login): [View here](https://app.powerbi.com/reportEmbed?reportId=be70e4af-b03e-4474-943d-2b95c63aa883)
 
 Screenshots of Dashboard
-<img width="1710" height="1107" alt="image" src="https://github.com/user-attachments/assets/6193d703-e3c1-4267-a4ee-4e3def1618db" />
 <img width="1710" height="1107" alt="Screenshot 2026-06-29 at 15 22 25" src="https://github.com/user-attachments/assets/93d86b63-24f0-4dbc-b5b5-2b738c978ec4" />
+<img width="1710" height="1107" alt="image" src="https://github.com/user-attachments/assets/6193d703-e3c1-4267-a4ee-4e3def1618db" />
 <img width="1710" height="1107" alt="Screenshot 2026-06-29 at 15 22 38" src="https://github.com/user-attachments/assets/9a31ca50-0a30-437b-96ec-698abb3ff0d2" />
 
 Built with genuine interest in Unifrog’s work on student progression and data-driven product decisions. Happy to walk through it in more detail!
